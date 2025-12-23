@@ -1,6 +1,4 @@
 "use client";
-import students from "@/data/students.json";
-
 export default function AdminDashboard() {
   return (
     <div>
@@ -8,4 +6,5 @@ export default function AdminDashboard() {
     </div>
   );
 }
+
 
