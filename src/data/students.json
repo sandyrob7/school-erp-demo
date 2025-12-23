@@ -1,0 +1,16 @@
+[
+  {
+    "id": "S001",
+    "name": "Aarav Sharma",
+    "class": "5",
+    "section": "A",
+    "parent": "Rohit Sharma"
+  },
+  {
+    "id": "S002",
+    "name": "Diya Verma",
+    "class": "5",
+    "section": "A",
+    "parent": "Neha Verma"
+  }
+]
