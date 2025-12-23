@@ -1,3 +1,4 @@
+"use client";
 import students from "@/data/students.json";
 
 export default function AttendancePage() {

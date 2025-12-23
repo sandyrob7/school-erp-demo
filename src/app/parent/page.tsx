@@ -1,3 +1,4 @@
+"use client";
 export default function ParentPage() {
   return (
     <div style={{ padding: 40 }}>
